@@ -38,7 +38,7 @@ Ensure that the remote is the correct one:
 
 If you need to reset the remote link:
 
-`git remote set-url origin https://[git username]@github.com/[git username]/`
+`git remote set-url origin https://[git username]@github.com/[git username]/[git repository]`
    
 Update your personal copy:
 
