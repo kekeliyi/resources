@@ -8,3 +8,5 @@
 | **Firewall**    |                    | Off          | Off | | |
 
 Switches and Basytec: looking from the door, the one on the right (R), the one on the left (L).
+
+BatLab PostgreSQL: b@tl@b
