@@ -9,4 +9,6 @@
 
 Switches and Basytec: looking from the door, the one on the right (R), the one on the left (L).
 
+Private network user: BatLab ; Private network password: b@tl@b123
+
 BatLab PostgreSQL: b@tl@b
