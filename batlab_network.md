@@ -6,9 +6,16 @@
 | **No default Gateway** |    Yes      |  Yes         | Yes         | Yes         | Yes         |
 | **No DNS server**    |     Yes       | Yes          | Yes         | Yes         | Yes         |
 | **Firewall**    |          On        | Off          | Off         | Off         | Off         |
+  
 
 Switches and Basytec: looking from the door, the one on the right (R), the one on the left (L).
 
 Private network user: BatLab ; Private network password: b@tl@b123
 
 BatLab PostgreSQL: b@tl@b
+
+**TeamViewer**
+e-mail: chem_batlab_svc@protonmail.com (password as above)
+
+| Computer name/IP  | TeamViewerID | Password  |  
+|  EGB092000001 (portal) | 1 306 137 359 | 536pqy  |  
