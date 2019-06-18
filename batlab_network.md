@@ -20,3 +20,4 @@ e-mail: chem_batlab_svc@protonmail.com (password as above)
 | Computer name/IP  | TeamViewerID | Password  | 
 |-------------------|:------------:|:---------:|
 |  EGB092000001 (portal) | 1 306 137 359 | mn4r16  |  
+| Basytec (L) | 192.168.0.2 | 8zf6z6 |
