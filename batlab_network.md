@@ -21,6 +21,6 @@ e-mail: chem_batlab_svc@protonmail.com (password as above)
 |-------------------|:------------:|:---------:|
 | Novonix20A | 192.168.0.9 | d7cp12 |
 | Novonix2A   | 192.168.0.8 | d9ir77 |
-| Basytec (R) | 192.168.0.3 | t59k4f |
-| Basytec (L) | 192.168.0.2 | 962rjk |
+| Basytec (R) | 192.168.0.3 | t59k4f (batlab)|
+| Basytec (L) | 192.168.0.2 | 962rjk (batlab)|
 
